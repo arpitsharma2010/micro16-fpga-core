@@ -1,0 +1,908 @@
+Time resolution is 1 ps
+PC = xxxx | Instr = xxxxxxxxxxxxxxxx | ALU Result = xxxx | WB = xxxx | rs = xxxx | rt = xxxx
+PC = 0000 | Instr = 0011000100000101 | ALU Result = 0005 | WB = 0005 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0000 | Instruction = 0011000100000101
+Opcode = 0011 | RS = R0 | RT = R1 | IMM/Funct = 0101
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0005 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0005 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0000 | Instr = 0011000100000101 | ALU Result = 0005 | WB = 0005 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0000 | Instruction = 0011000100000101
+Opcode = 0011 | RS = R0 | RT = R1 | IMM/Funct = 0101
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0005 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0005 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0000 | Instr = 0011000100000101 | ALU Result = 0005 | WB = 0005 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0000 | Instruction = 0011000100000101
+Opcode = 0011 | RS = R0 | RT = R1 | IMM/Funct = 0101
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0005 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0005 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0000 | Instr = 0011000100000101 | ALU Result = 0005 | WB = 0005 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0000 | Instruction = 0011000100000101
+Opcode = 0011 | RS = R0 | RT = R1 | IMM/Funct = 0101
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0005 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0005 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0000 | Instr = 0011000100000101 | ALU Result = 0005 | WB = 0005 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0000 | Instruction = 0011000100000101
+Opcode = 0011 | RS = R0 | RT = R1 | IMM/Funct = 0101
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0005 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0005 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0000 | Instr = 0011000100000101 | ALU Result = 0005 | WB = 0005 | rs = 0000 | rt = 0000
+Write to R1 = 0005 at time                65000
+--------------------------------------------------
+PC = 0002 | Instruction = 0011001111110011
+Opcode = 0011 | RS = R15 | RT = R3 | IMM/Funct = 0011
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0003 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0003 to R3
+Branch Taken = 00 | Jump = 0
+PC = 0002 | Instr = 0011001111110011 | ALU Result = 0003 | WB = 0003 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0002 | Instruction = 0011001111110011
+Opcode = 0011 | RS = R15 | RT = R3 | IMM/Funct = 0011
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0003 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0003 to R3
+Branch Taken = 00 | Jump = 0
+PC = 0002 | Instr = 0011001111110011 | ALU Result = 0003 | WB = 0003 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0002 | Instruction = 0011001111110011
+Opcode = 0011 | RS = R15 | RT = R3 | IMM/Funct = 0011
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0003 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0003 to R3
+Branch Taken = 00 | Jump = 0
+PC = 0002 | Instr = 0011001111110011 | ALU Result = 0003 | WB = 0003 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0002 | Instruction = 0011001111110011
+Opcode = 0011 | RS = R15 | RT = R3 | IMM/Funct = 0011
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0003 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0003 to R3
+Branch Taken = 00 | Jump = 0
+PC = 0002 | Instr = 0011001111110011 | ALU Result = 0003 | WB = 0003 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0002 | Instruction = 0011001111110011
+Opcode = 0011 | RS = R15 | RT = R3 | IMM/Funct = 0011
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0003 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0003 to R3
+Branch Taken = 00 | Jump = 0
+PC = 0002 | Instr = 0011001111110011 | ALU Result = 0003 | WB = 0003 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0002 | Instruction = 0011001111110011
+Opcode = 0011 | RS = R15 | RT = R3 | IMM/Funct = 0011
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0003 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0003 to R3
+Branch Taken = 00 | Jump = 0
+PC = 0002 | Instr = 0011001111110011 | ALU Result = 0003 | WB = 0003 | rs = 0000 | rt = 0000
+Write to R3 = 0003 at time               125000
+--------------------------------------------------
+PC = 0004 | Instruction = 0011010101000010
+Opcode = 0011 | RS = R4 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R5
+Branch Taken = 00 | Jump = 0
+PC = 0004 | Instr = 0011010101000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0004 | Instruction = 0011010101000010
+Opcode = 0011 | RS = R4 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R5
+Branch Taken = 00 | Jump = 0
+PC = 0004 | Instr = 0011010101000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0004 | Instruction = 0011010101000010
+Opcode = 0011 | RS = R4 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R5
+Branch Taken = 00 | Jump = 0
+PC = 0004 | Instr = 0011010101000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0004 | Instruction = 0011010101000010
+Opcode = 0011 | RS = R4 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R5
+Branch Taken = 00 | Jump = 0
+PC = 0004 | Instr = 0011010101000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0004 | Instruction = 0011010101000010
+Opcode = 0011 | RS = R4 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R5
+Branch Taken = 00 | Jump = 0
+PC = 0004 | Instr = 0011010101000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0004 | Instruction = 0011010101000010
+Opcode = 0011 | RS = R4 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R5
+Branch Taken = 00 | Jump = 0
+PC = 0004 | Instr = 0011010101000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0000
+Write to R5 = 0002 at time               185000
+--------------------------------------------------
+PC = 0006 | Instruction = 0011011101100001
+Opcode = 0011 | RS = R6 | RT = R7 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 0006 | Instr = 0011011101100001 | ALU Result = 0001 | WB = 0001 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0006 | Instruction = 0011011101100001
+Opcode = 0011 | RS = R6 | RT = R7 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 0006 | Instr = 0011011101100001 | ALU Result = 0001 | WB = 0001 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0006 | Instruction = 0011011101100001
+Opcode = 0011 | RS = R6 | RT = R7 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 0006 | Instr = 0011011101100001 | ALU Result = 0001 | WB = 0001 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0006 | Instruction = 0011011101100001
+Opcode = 0011 | RS = R6 | RT = R7 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 0006 | Instr = 0011011101100001 | ALU Result = 0001 | WB = 0001 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0006 | Instruction = 0011011101100001
+Opcode = 0011 | RS = R6 | RT = R7 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 0006 | Instr = 0011011101100001 | ALU Result = 0001 | WB = 0001 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0006 | Instruction = 0011011101100001
+Opcode = 0011 | RS = R6 | RT = R7 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 0006 | Instr = 0011011101100001 | ALU Result = 0001 | WB = 0001 | rs = 0000 | rt = 0000
+Write to R7 = 0001 at time               245000
+--------------------------------------------------
+PC = 0008 | Instruction = 0000000100110000
+Opcode = 0000 | RS = R3 | RT = R1 | IMM/Funct = 0000
+Reg[RS] = 0003 | Reg[RT] = 0005
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0008 | Instr = 0000000100110000 | ALU Result = 0008 | WB = 0008 | rs = 0003 | rt = 0005
+--------------------------------------------------
+PC = 0008 | Instruction = 0000000100110000
+Opcode = 0000 | RS = R3 | RT = R1 | IMM/Funct = 0000
+Reg[RS] = 0003 | Reg[RT] = 0005
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0008 | Instr = 0000000100110000 | ALU Result = 0008 | WB = 0008 | rs = 0003 | rt = 0005
+--------------------------------------------------
+PC = 0008 | Instruction = 0000000100110000
+Opcode = 0000 | RS = R3 | RT = R1 | IMM/Funct = 0000
+Reg[RS] = 0003 | Reg[RT] = 0005
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0008 | Instr = 0000000100110000 | ALU Result = 0008 | WB = 0008 | rs = 0003 | rt = 0005
+--------------------------------------------------
+PC = 0008 | Instruction = 0000000100110000
+Opcode = 0000 | RS = R3 | RT = R1 | IMM/Funct = 0000
+Reg[RS] = 0003 | Reg[RT] = 0005
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0008 | Instr = 0000000100110000 | ALU Result = 0008 | WB = 0008 | rs = 0003 | rt = 0005
+--------------------------------------------------
+PC = 0008 | Instruction = 0000000100110000
+Opcode = 0000 | RS = R3 | RT = R1 | IMM/Funct = 0000
+Reg[RS] = 0003 | Reg[RT] = 0005
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0008 | Instr = 0000000100110000 | ALU Result = 0008 | WB = 0008 | rs = 0003 | rt = 0005
+--------------------------------------------------
+PC = 0008 | Instruction = 0000000100110000
+Opcode = 0000 | RS = R3 | RT = R1 | IMM/Funct = 0000
+Reg[RS] = 0003 | Reg[RT] = 0005
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0008 | Instr = 0000000100110000 | ALU Result = 0008 | WB = 0008 | rs = 0003 | rt = 0005
+Write to R1 = 0008 at time               305000
+--------------------------------------------------
+PC = 000a | Instruction = 0000001100110001
+Opcode = 0000 | RS = R3 | RT = R3 | IMM/Funct = 0001
+Reg[RS] = 0003 | Reg[RT] = 0003
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R3
+Branch Taken = 00 | Jump = 0
+PC = 000a | Instr = 0000001100110001 | ALU Result = 0000 | WB = 0000 | rs = 0003 | rt = 0003
+--------------------------------------------------
+PC = 000a | Instruction = 0000001100110001
+Opcode = 0000 | RS = R3 | RT = R3 | IMM/Funct = 0001
+Reg[RS] = 0003 | Reg[RT] = 0003
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R3
+Branch Taken = 00 | Jump = 0
+PC = 000a | Instr = 0000001100110001 | ALU Result = 0000 | WB = 0000 | rs = 0003 | rt = 0003
+--------------------------------------------------
+PC = 000a | Instruction = 0000001100110001
+Opcode = 0000 | RS = R3 | RT = R3 | IMM/Funct = 0001
+Reg[RS] = 0003 | Reg[RT] = 0003
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R3
+Branch Taken = 00 | Jump = 0
+PC = 000a | Instr = 0000001100110001 | ALU Result = 0000 | WB = 0000 | rs = 0003 | rt = 0003
+--------------------------------------------------
+PC = 000a | Instruction = 0000001100110001
+Opcode = 0000 | RS = R3 | RT = R3 | IMM/Funct = 0001
+Reg[RS] = 0003 | Reg[RT] = 0003
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R3
+Branch Taken = 00 | Jump = 0
+PC = 000a | Instr = 0000001100110001 | ALU Result = 0000 | WB = 0000 | rs = 0003 | rt = 0003
+--------------------------------------------------
+PC = 000a | Instruction = 0000001100110001
+Opcode = 0000 | RS = R3 | RT = R3 | IMM/Funct = 0001
+Reg[RS] = 0003 | Reg[RT] = 0003
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R3
+Branch Taken = 00 | Jump = 0
+PC = 000a | Instr = 0000001100110001 | ALU Result = 0000 | WB = 0000 | rs = 0003 | rt = 0003
+--------------------------------------------------
+PC = 000a | Instruction = 0000001100110001
+Opcode = 0000 | RS = R3 | RT = R3 | IMM/Funct = 0001
+Reg[RS] = 0003 | Reg[RT] = 0003
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R3
+Branch Taken = 00 | Jump = 0
+PC = 000a | Instr = 0000001100110001 | ALU Result = 0000 | WB = 0000 | rs = 0003 | rt = 0003
+Write to R3 = 0000 at time               365000
+--------------------------------------------------
+PC = 000c | Instruction = 0000011101110011
+Opcode = 0000 | RS = R7 | RT = R7 | IMM/Funct = 0011
+Reg[RS] = 0001 | Reg[RT] = 0001
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 000c | Instr = 0000011101110011 | ALU Result = 0001 | WB = 0001 | rs = 0001 | rt = 0001
+--------------------------------------------------
+PC = 000c | Instruction = 0000011101110011
+Opcode = 0000 | RS = R7 | RT = R7 | IMM/Funct = 0011
+Reg[RS] = 0001 | Reg[RT] = 0001
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 000c | Instr = 0000011101110011 | ALU Result = 0001 | WB = 0001 | rs = 0001 | rt = 0001
+--------------------------------------------------
+PC = 000c | Instruction = 0000011101110011
+Opcode = 0000 | RS = R7 | RT = R7 | IMM/Funct = 0011
+Reg[RS] = 0001 | Reg[RT] = 0001
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 000c | Instr = 0000011101110011 | ALU Result = 0001 | WB = 0001 | rs = 0001 | rt = 0001
+--------------------------------------------------
+PC = 000c | Instruction = 0000011101110011
+Opcode = 0000 | RS = R7 | RT = R7 | IMM/Funct = 0011
+Reg[RS] = 0001 | Reg[RT] = 0001
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 000c | Instr = 0000011101110011 | ALU Result = 0001 | WB = 0001 | rs = 0001 | rt = 0001
+--------------------------------------------------
+PC = 000c | Instruction = 0000011101110011
+Opcode = 0000 | RS = R7 | RT = R7 | IMM/Funct = 0011
+Reg[RS] = 0001 | Reg[RT] = 0001
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 000c | Instr = 0000011101110011 | ALU Result = 0001 | WB = 0001 | rs = 0001 | rt = 0001
+--------------------------------------------------
+PC = 000c | Instruction = 0000011101110011
+Opcode = 0000 | RS = R7 | RT = R7 | IMM/Funct = 0011
+Reg[RS] = 0001 | Reg[RT] = 0001
+ALU Result = 0001 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0001 to R7
+Branch Taken = 00 | Jump = 0
+PC = 000c | Instr = 0000011101110011 | ALU Result = 0001 | WB = 0001 | rs = 0001 | rt = 0001
+Write to R7 = 0001 at time               425000
+--------------------------------------------------
+PC = 000e | Instruction = 0000010101010010
+Opcode = 0000 | RS = R5 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0002 | Reg[RT] = 0002
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R5
+Branch Taken = 00 | Jump = 0
+PC = 000e | Instr = 0000010101010010 | ALU Result = 0008 | WB = 0008 | rs = 0002 | rt = 0002
+--------------------------------------------------
+PC = 000e | Instruction = 0000010101010010
+Opcode = 0000 | RS = R5 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0002 | Reg[RT] = 0002
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R5
+Branch Taken = 00 | Jump = 0
+PC = 000e | Instr = 0000010101010010 | ALU Result = 0008 | WB = 0008 | rs = 0002 | rt = 0002
+--------------------------------------------------
+PC = 000e | Instruction = 0000010101010010
+Opcode = 0000 | RS = R5 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0002 | Reg[RT] = 0002
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R5
+Branch Taken = 00 | Jump = 0
+PC = 000e | Instr = 0000010101010010 | ALU Result = 0008 | WB = 0008 | rs = 0002 | rt = 0002
+--------------------------------------------------
+PC = 000e | Instruction = 0000010101010010
+Opcode = 0000 | RS = R5 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0002 | Reg[RT] = 0002
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R5
+Branch Taken = 00 | Jump = 0
+PC = 000e | Instr = 0000010101010010 | ALU Result = 0008 | WB = 0008 | rs = 0002 | rt = 0002
+--------------------------------------------------
+PC = 000e | Instruction = 0000010101010010
+Opcode = 0000 | RS = R5 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0002 | Reg[RT] = 0002
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R5
+Branch Taken = 00 | Jump = 0
+PC = 000e | Instr = 0000010101010010 | ALU Result = 0008 | WB = 0008 | rs = 0002 | rt = 0002
+--------------------------------------------------
+PC = 000e | Instruction = 0000010101010010
+Opcode = 0000 | RS = R5 | RT = R5 | IMM/Funct = 0010
+Reg[RS] = 0002 | Reg[RT] = 0002
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R5
+Branch Taken = 00 | Jump = 0
+PC = 000e | Instr = 0000010101010010 | ALU Result = 0008 | WB = 0008 | rs = 0002 | rt = 0002
+Write to R5 = 0008 at time               485000
+--------------------------------------------------
+PC = 0010 | Instruction = 0010000100000010
+Opcode = 0010 | RS = R0 | RT = R1 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0008
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0010 | Instr = 0010000100000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0008
+Mem[0x02] <= 0008 (Write) at time               495000
+--------------------------------------------------
+PC = 0010 | Instruction = 0010000100000010
+Opcode = 0010 | RS = R0 | RT = R1 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0008
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0010 | Instr = 0010000100000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0008
+Mem[0x02] <= 0008 (Write) at time               505000
+--------------------------------------------------
+PC = 0010 | Instruction = 0010000100000010
+Opcode = 0010 | RS = R0 | RT = R1 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0008
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0010 | Instr = 0010000100000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0008
+Mem[0x02] <= 0008 (Write) at time               515000
+--------------------------------------------------
+PC = 0010 | Instruction = 0010000100000010
+Opcode = 0010 | RS = R0 | RT = R1 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0008
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0010 | Instr = 0010000100000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0008
+Mem[0x02] <= 0008 (Write) at time               525000
+--------------------------------------------------
+PC = 0010 | Instruction = 0010000100000010
+Opcode = 0010 | RS = R0 | RT = R1 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0008
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0010 | Instr = 0010000100000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0008
+Mem[0x02] <= 0008 (Write) at time               535000
+--------------------------------------------------
+PC = 0010 | Instruction = 0010000100000010
+Opcode = 0010 | RS = R0 | RT = R1 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0008
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0002 to R1
+Branch Taken = 00 | Jump = 0
+PC = 0010 | Instr = 0010000100000010 | ALU Result = 0002 | WB = 0002 | rs = 0000 | rt = 0008
+Mem[0x02] <= 0008 (Write) at time               545000
+--------------------------------------------------
+PC = 0012 | Instruction = 0001101100000010
+Opcode = 0001 | RS = R0 | RT = R11 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0008
+Writeback Data = 0008 to R11
+Branch Taken = 00 | Jump = 0
+PC = 0012 | Instr = 0001101100000010 | ALU Result = 0002 | WB = 0008 | rs = 0000 | rt = 0000
+Mem[0x02] => 0008 (Read) at time               555000
+--------------------------------------------------
+PC = 0012 | Instruction = 0001101100000010
+Opcode = 0001 | RS = R0 | RT = R11 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0008
+Writeback Data = 0008 to R11
+Branch Taken = 00 | Jump = 0
+PC = 0012 | Instr = 0001101100000010 | ALU Result = 0002 | WB = 0008 | rs = 0000 | rt = 0000
+Mem[0x02] => 0008 (Read) at time               565000
+--------------------------------------------------
+PC = 0012 | Instruction = 0001101100000010
+Opcode = 0001 | RS = R0 | RT = R11 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0008
+Writeback Data = 0008 to R11
+Branch Taken = 00 | Jump = 0
+PC = 0012 | Instr = 0001101100000010 | ALU Result = 0002 | WB = 0008 | rs = 0000 | rt = 0000
+Mem[0x02] => 0008 (Read) at time               575000
+--------------------------------------------------
+PC = 0012 | Instruction = 0001101100000010
+Opcode = 0001 | RS = R0 | RT = R11 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0008
+Writeback Data = 0008 to R11
+Branch Taken = 00 | Jump = 0
+PC = 0012 | Instr = 0001101100000010 | ALU Result = 0002 | WB = 0008 | rs = 0000 | rt = 0000
+Mem[0x02] => 0008 (Read) at time               585000
+--------------------------------------------------
+PC = 0012 | Instruction = 0001101100000010
+Opcode = 0001 | RS = R0 | RT = R11 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0008
+Writeback Data = 0008 to R11
+Branch Taken = 00 | Jump = 0
+PC = 0012 | Instr = 0001101100000010 | ALU Result = 0002 | WB = 0008 | rs = 0000 | rt = 0000
+Mem[0x02] => 0008 (Read) at time               595000
+--------------------------------------------------
+PC = 0012 | Instruction = 0001101100000010
+Opcode = 0001 | RS = R0 | RT = R11 | IMM/Funct = 0010
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0002 | Zero = 0
+Mem Read Data = 0008
+Writeback Data = 0008 to R11
+Branch Taken = 00 | Jump = 0
+PC = 0012 | Instr = 0001101100000010 | ALU Result = 0002 | WB = 0008 | rs = 0000 | rt = 0000
+Write to R11 = 0008 at time               605000
+Mem[0x02] => 0008 (Read) at time               605000
+--------------------------------------------------
+PC = 0014 | Instruction = 0100100110010001
+Opcode = 0100 | RS = R9 | RT = R9 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R9
+Branch Taken = 01 | Jump = 0
+PC = 0014 | Instr = 0100100110010001 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0014 | Instruction = 0100100110010001
+Opcode = 0100 | RS = R9 | RT = R9 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R9
+Branch Taken = 01 | Jump = 0
+PC = 0014 | Instr = 0100100110010001 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0014 | Instruction = 0100100110010001
+Opcode = 0100 | RS = R9 | RT = R9 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R9
+Branch Taken = 01 | Jump = 0
+PC = 0014 | Instr = 0100100110010001 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0014 | Instruction = 0100100110010001
+Opcode = 0100 | RS = R9 | RT = R9 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R9
+Branch Taken = 01 | Jump = 0
+PC = 0014 | Instr = 0100100110010001 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0014 | Instruction = 0100100110010001
+Opcode = 0100 | RS = R9 | RT = R9 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R9
+Branch Taken = 01 | Jump = 0
+PC = 0014 | Instr = 0100100110010001 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0014 | Instruction = 0100100110010001
+Opcode = 0100 | RS = R9 | RT = R9 | IMM/Funct = 0001
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R9
+Branch Taken = 01 | Jump = 0
+PC = 0014 | Instr = 0100100110010001 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0004 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0004 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0004 | WB = 0004 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0004 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0004 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0004 | WB = 0004 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0004 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0004 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0004 | WB = 0004 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0004 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0004 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0004 | WB = 0004 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0004 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0004 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0004 | WB = 0004 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0004 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0004 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0004 | WB = 0004 | rs = 0000 | rt = 0000
+Write to R10 = 0004 at time               725000
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0004 | Reg[RT] = 0008
+ALU Result = fffc | Zero = 0
+Mem Read Data = 0000
+Writeback Data = fffc to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = fffc | WB = fffc | rs = 0004 | rt = 0008
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0004 | Reg[RT] = 0008
+ALU Result = fffc | Zero = 0
+Mem Read Data = 0000
+Writeback Data = fffc to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = fffc | WB = fffc | rs = 0004 | rt = 0008
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0004 | Reg[RT] = 0008
+ALU Result = fffc | Zero = 0
+Mem Read Data = 0000
+Writeback Data = fffc to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = fffc | WB = fffc | rs = 0004 | rt = 0008
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0004 | Reg[RT] = 0008
+ALU Result = fffc | Zero = 0
+Mem Read Data = 0000
+Writeback Data = fffc to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = fffc | WB = fffc | rs = 0004 | rt = 0008
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0004 | Reg[RT] = 0008
+ALU Result = fffc | Zero = 0
+Mem Read Data = 0000
+Writeback Data = fffc to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = fffc | WB = fffc | rs = 0004 | rt = 0008
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0004 | Reg[RT] = 0008
+ALU Result = fffc | Zero = 0
+Mem Read Data = 0000
+Writeback Data = fffc to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = fffc | WB = fffc | rs = 0004 | rt = 0008
+--------------------------------------------------
+PC = 001e | Instruction = 0110111111111100
+Opcode = 0110 | RS = R15 | RT = R15 | IMM/Funct = 1100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R15
+Branch Taken = 00 | Jump = 1
+PC = 001e | Instr = 0110111111111100 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 001e | Instruction = 0110111111111100
+Opcode = 0110 | RS = R15 | RT = R15 | IMM/Funct = 1100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R15
+Branch Taken = 00 | Jump = 1
+PC = 001e | Instr = 0110111111111100 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 001e | Instruction = 0110111111111100
+Opcode = 0110 | RS = R15 | RT = R15 | IMM/Funct = 1100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R15
+Branch Taken = 00 | Jump = 1
+PC = 001e | Instr = 0110111111111100 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 001e | Instruction = 0110111111111100
+Opcode = 0110 | RS = R15 | RT = R15 | IMM/Funct = 1100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R15
+Branch Taken = 00 | Jump = 1
+PC = 001e | Instr = 0110111111111100 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 001e | Instruction = 0110111111111100
+Opcode = 0110 | RS = R15 | RT = R15 | IMM/Funct = 1100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R15
+Branch Taken = 00 | Jump = 1
+PC = 001e | Instr = 0110111111111100 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 001e | Instruction = 0110111111111100
+Opcode = 0110 | RS = R15 | RT = R15 | IMM/Funct = 1100
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R15
+Branch Taken = 00 | Jump = 1
+PC = 001e | Instr = 0110111111111100 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0004 | Reg[RT] = 0004
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0008 | WB = 0008 | rs = 0004 | rt = 0004
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0004 | Reg[RT] = 0004
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0008 | WB = 0008 | rs = 0004 | rt = 0004
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0004 | Reg[RT] = 0004
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0008 | WB = 0008 | rs = 0004 | rt = 0004
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0004 | Reg[RT] = 0004
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0008 | WB = 0008 | rs = 0004 | rt = 0004
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0004 | Reg[RT] = 0004
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0008 | WB = 0008 | rs = 0004 | rt = 0004
+--------------------------------------------------
+PC = 0018 | Instruction = 0011101010100100
+Opcode = 0011 | RS = R10 | RT = R10 | IMM/Funct = 0100
+Reg[RS] = 0004 | Reg[RT] = 0004
+ALU Result = 0008 | Zero = 0
+Mem Read Data = 0000
+Writeback Data = 0008 to R10
+Branch Taken = 00 | Jump = 0
+PC = 0018 | Instr = 0011101010100100 | ALU Result = 0008 | WB = 0008 | rs = 0004 | rt = 0004
+Write to R10 = 0008 at time               905000
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0008 | Reg[RT] = 0008
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = 0000 | WB = 0000 | rs = 0008 | rt = 0008
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0008 | Reg[RT] = 0008
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = 0000 | WB = 0000 | rs = 0008 | rt = 0008
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0008 | Reg[RT] = 0008
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = 0000 | WB = 0000 | rs = 0008 | rt = 0008
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0008 | Reg[RT] = 0008
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = 0000 | WB = 0000 | rs = 0008 | rt = 0008
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0008 | Reg[RT] = 0008
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = 0000 | WB = 0000 | rs = 0008 | rt = 0008
+--------------------------------------------------
+PC = 001a | Instruction = 0101000110100001
+Opcode = 0101 | RS = R10 | RT = R1 | IMM/Funct = 0001
+Reg[RS] = 0008 | Reg[RT] = 0008
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R1
+Branch Taken = 00 | Jump = 0
+PC = 001a | Instr = 0101000110100001 | ALU Result = 0000 | WB = 0000 | rs = 0008 | rt = 0008
+--------------------------------------------------
+PC = 001c | Instruction = 0000000000000000
+Opcode = 0000 | RS = R0 | RT = R0 | IMM/Funct = 0000
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R0
+Branch Taken = 00 | Jump = 0
+PC = 001c | Instr = 0000000000000000 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 001c | Instruction = 0000000000000000
+Opcode = 0000 | RS = R0 | RT = R0 | IMM/Funct = 0000
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R0
+Branch Taken = 00 | Jump = 0
+PC = 001c | Instr = 0000000000000000 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
+--------------------------------------------------
+PC = 001c | Instruction = 0000000000000000
+Opcode = 0000 | RS = R0 | RT = R0 | IMM/Funct = 0000
+Reg[RS] = 0000 | Reg[RT] = 0000
+ALU Result = 0000 | Zero = 1
+Mem Read Data = 0000
+Writeback Data = 0000 to R0
+Branch Taken = 00 | Jump = 0
+PC = 001c | Instr = 0000000000000000 | ALU Result = 0000 | WB = 0000 | rs = 0000 | rt = 0000
