@@ -55,6 +55,7 @@ All instructions are encoded in a 16-bit custom ISA format with word-aligned add
 
 ## 📁 File Structure
 
+```
 ├── cpu.v                  # Top-level CPU module with button-controlled execution
 ├── alu.v                  # Arithmetic and logic operations
 ├── alu_control.v          # ALU control logic to decode funct field
@@ -69,7 +70,7 @@ All instructions are encoded in a 16-bit custom ISA format with word-aligned add
 ├── seven_seg_display.v    # Converts 16-bit instruction into 7-segment display format
 ├── cpu_tb.v               # Full testbench simulating 40 button presses
 ├── constraints.xdc        # Pin configuration for Basys3 board (buttons, LEDs, 7-seg)
-
+```
 
 ## 🛠 Tools & Tech Stack
 
