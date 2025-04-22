@@ -89,7 +89,6 @@ All instructions are encoded in a 16-bit custom ISA format with word-aligned add
 ## 🚧 Future Enhancements
 
 - Add support for more instructions (e.g., `or`, `xor`, `nop`, `halt`)
-- Expand to a pipelined architecture
 
 ---
 
